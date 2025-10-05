@@ -30,4 +30,4 @@ This project deploys a load-balanced web application on AWS using Ansible automa
 Jacqueline Anyanwu
 
 ## Medium Article
-[Link will be added after publication]
+https://medium.com/@jaclynanyanwu29/automation-and-deployment-of-a-website-on-aws-ec2-s3-alb-401386dc75be
